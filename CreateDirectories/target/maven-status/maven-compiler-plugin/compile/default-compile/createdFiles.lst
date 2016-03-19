@@ -1,0 +1,7 @@
+org\crce\interns\model\RoleMaster.class
+org\crce\interns\dao\DirectoryDAO.class
+org\crce\interns\dao\DirectoryDAOImpl.class
+org\crce\interns\service\DirectoryServiceImpl.class
+org\crce\interns\controller\DirectoryController.class
+org\crce\interns\service\DirectoryService.class
+org\crce\interns\model\UserDetails.class
